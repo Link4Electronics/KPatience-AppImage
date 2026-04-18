@@ -11,7 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/icons/hicolor/256x256/apps/kpat.png
 export DESKTOP=/usr/share/applications/org.kde.kpat.desktop
 export STARTUPWMCLASS=org.kde.kpat
-export PATH_MAPPING_HARDCODED=kpat
+#export PATH_MAPPING_HARDCODED=kpat
 export DEPLOY_QT=1
 export QT_DIR=qt6
 
